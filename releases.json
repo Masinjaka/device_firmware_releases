@@ -1,7 +1,17 @@
 {
-    "releases": [
+    "Duo_left": [
         {
             "version":"0.1",
+            "link":"https://raw.githubusercontent.com/Masinjaka/device_firmware_releases/main/v0.1/bleuart_me.ino.zip"
+        }
+    ],
+    "Duo_right": [
+        {
+            "version":"0.1",
+            "link":"https://raw.githubusercontent.com/Masinjaka/device_firmware_releases/main/v0.1/bleuart_me.ino.zip"
+        },
+        {
+            "version":"0.9",
             "link":"https://raw.githubusercontent.com/Masinjaka/device_firmware_releases/main/v0.1/bleuart_me.ino.zip"
         }
     ]
