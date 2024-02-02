@@ -7,6 +7,10 @@
         {
             "version":"0.1.b",
             "link":"https://raw.githubusercontent.com/Masinjaka/device_firmware_releases/main/v0.1/Left_test_code.ino.zip"
+        },
+        {
+            "version":"0.9",
+            "link":"https://raw.githubusercontent.com/Masinjaka/device_firmware_releases/main/v0.1/motion.zip"
         }
     ],
     "Duo_right": [
